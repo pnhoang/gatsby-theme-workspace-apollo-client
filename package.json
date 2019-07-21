@@ -8,6 +8,7 @@
     "build": "yarn workspace example build"
   },
   "workspaces": [
+    "gatsby-plugin-apollo-client",
     "gatsby-theme-minimal",
     "example"
   ]
